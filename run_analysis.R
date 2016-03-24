@@ -153,8 +153,7 @@
 		# Check the tidydata.txt
 		DataTidy -> read.table("tidydata.txt", sep=" ", head=TRUE) 
 		DataTidy
-		
-		
+#------------------ End of Code -----------------------------------------------------------------------------		
 		
 		
 		
